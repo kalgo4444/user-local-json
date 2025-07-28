@@ -1,0 +1,211 @@
+{
+  "students": [
+    {
+      "id": "6cf9",
+      "fname": "sdfg",
+      "lname": "dsfg",
+      "phone": "354",
+      "address": "sadf",
+      "birthdate": "2025-07-10",
+      "gender": "female"
+    },
+    {
+      "id": "b421",
+      "fname": "sadf",
+      "lname": "asdf",
+      "phone": "234",
+      "address": "fasdf",
+      "birthdate": "2025-07-11",
+      "gender": "male"
+    },
+    {
+      "id": "764d",
+      "fname": "sdfg",
+      "lname": "sdf",
+      "phone": "435",
+      "address": "asa",
+      "birthdate": "2025-07-04",
+      "gender": "female"
+    },
+    {
+      "id": "a1b2",
+      "fname": "John",
+      "lname": "Doe",
+      "phone": "1234567890",
+      "address": "123 Main St",
+      "birthdate": "1990-04-15",
+      "gender": "male"
+    },
+    {
+      "id": "c3d4",
+      "fname": "Jane",
+      "lname": "Smith",
+      "phone": "2345678901",
+      "address": "456 Elm St",
+      "birthdate": "1985-11-22",
+      "gender": "female"
+    },
+    {
+      "id": "e5f6",
+      "fname": "Alice",
+      "lname": "Brown",
+      "phone": "3456789012",
+      "address": "789 Oak Ave",
+      "birthdate": "1992-07-30",
+      "gender": "female"
+    },
+    {
+      "id": "g7h8",
+      "fname": "Bob",
+      "lname": "Johnson",
+      "phone": "4567890123",
+      "address": "135 Pine Rd",
+      "birthdate": "1980-03-18",
+      "gender": "male"
+    },
+    {
+      "id": "i9j0",
+      "fname": "Emily",
+      "lname": "Davis",
+      "phone": "5678901234",
+      "address": "246 Maple St",
+      "birthdate": "1998-10-09",
+      "gender": "female"
+    },
+    {
+      "id": "k1l2",
+      "fname": "Michael",
+      "lname": "Wilson",
+      "phone": "6789012345",
+      "address": "357 Birch Ln",
+      "birthdate": "1975-01-25",
+      "gender": "male"
+    },
+    {
+      "id": "m3n4",
+      "fname": "Olivia",
+      "lname": "Taylor",
+      "phone": "7890123456",
+      "address": "468 Cedar St",
+      "birthdate": "2000-08-14",
+      "gender": "female"
+    },
+    {
+      "id": "o5p6",
+      "fname": "Daniel",
+      "lname": "Anderson",
+      "phone": "8901234567",
+      "address": "579 Spruce Dr",
+      "birthdate": "1994-05-03",
+      "gender": "male"
+    },
+    {
+      "id": "q7r8",
+      "fname": "Sophia",
+      "lname": "Thomas",
+      "phone": "9012345678",
+      "address": "680 Poplar Ct",
+      "birthdate": "2001-12-12",
+      "gender": "female"
+    },
+    {
+      "id": "s9t0",
+      "fname": "William",
+      "lname": "Jackson",
+      "phone": "0123456789",
+      "address": "791 Walnut St",
+      "birthdate": "1988-06-07",
+      "gender": "male"
+    },
+    {
+      "id": "u1v2",
+      "fname": "Ava",
+      "lname": "White",
+      "phone": "1123456789",
+      "address": "802 Chestnut Rd",
+      "birthdate": "1999-09-27",
+      "gender": "female"
+    },
+    {
+      "id": "w3x4",
+      "fname": "James",
+      "lname": "Harris",
+      "phone": "1223456789",
+      "address": "913 Willow Ln",
+      "birthdate": "1972-02-20",
+      "gender": "male"
+    },
+    {
+      "id": "y5z6",
+      "fname": "Mia",
+      "lname": "Martin",
+      "phone": "1323456789",
+      "address": "102 Fir Dr",
+      "birthdate": "2003-04-05",
+      "gender": "female"
+    },
+    {
+      "id": "a7b8",
+      "fname": "Logan",
+      "lname": "Thompson",
+      "phone": "1423456789",
+      "address": "113 Aspen Ct",
+      "birthdate": "1983-07-13",
+      "gender": "male"
+    },
+    {
+      "id": "c9d0",
+      "fname": "Ella",
+      "lname": "Garcia",
+      "phone": "1523456789",
+      "address": "124 Redwood St",
+      "birthdate": "1991-11-01",
+      "gender": "female"
+    },
+    {
+      "id": "e1f2",
+      "fname": "Ethan",
+      "lname": "Martinez",
+      "phone": "1623456789",
+      "address": "135 Larch Rd",
+      "birthdate": "1987-03-22",
+      "gender": "male"
+    },
+    {
+      "id": "g3h4",
+      "fname": "Lily",
+      "lname": "Clark",
+      "phone": "1723456789",
+      "address": "146 Beech Ln",
+      "birthdate": "1995-09-16",
+      "gender": "female"
+    },
+    {
+      "id": "i5j6",
+      "fname": "Noah",
+      "lname": "Rodriguez",
+      "phone": "1823456789",
+      "address": "157 Sycamore Ct",
+      "birthdate": "1978-12-30",
+      "gender": "male"
+    },
+    {
+      "id": "k7l8",
+      "fname": "Grace",
+      "lname": "Lewis",
+      "phone": "1923456789",
+      "address": "168 Hickory Dr",
+      "birthdate": "2002-06-19",
+      "gender": "female"
+    },
+    {
+      "id": "m9n0",
+      "fname": "Henry",
+      "lname": "Lee",
+      "phone": "2023456789",
+      "address": "179 Magnolia St",
+      "birthdate": "1982-08-08",
+      "gender": "male"
+    }
+  ]
+}
