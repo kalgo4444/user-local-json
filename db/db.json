@@ -1,33 +1,6 @@
 {
   "students": [
     {
-      "id": "6cf9",
-      "fname": "sdfg",
-      "lname": "dsfg",
-      "phone": "354",
-      "address": "sadf",
-      "birthdate": "2025-07-10",
-      "gender": "female"
-    },
-    {
-      "id": "b421",
-      "fname": "sadf",
-      "lname": "asdf",
-      "phone": "234",
-      "address": "fasdf",
-      "birthdate": "2025-07-11",
-      "gender": "male"
-    },
-    {
-      "id": "764d",
-      "fname": "sdfg",
-      "lname": "sdf",
-      "phone": "435",
-      "address": "asa",
-      "birthdate": "2025-07-04",
-      "gender": "female"
-    },
-    {
       "id": "a1b2",
       "fname": "John",
       "lname": "Doe",
@@ -163,15 +136,6 @@
       "gender": "female"
     },
     {
-      "id": "e1f2",
-      "fname": "Ethan",
-      "lname": "Martinez",
-      "phone": "1623456789",
-      "address": "135 Larch Rd",
-      "birthdate": "1987-03-22",
-      "gender": "male"
-    },
-    {
       "id": "g3h4",
       "fname": "Lily",
       "lname": "Clark",
@@ -179,33 +143,6 @@
       "address": "146 Beech Ln",
       "birthdate": "1995-09-16",
       "gender": "female"
-    },
-    {
-      "id": "i5j6",
-      "fname": "Noah",
-      "lname": "Rodriguez",
-      "phone": "1823456789",
-      "address": "157 Sycamore Ct",
-      "birthdate": "1978-12-30",
-      "gender": "male"
-    },
-    {
-      "id": "k7l8",
-      "fname": "Grace",
-      "lname": "Lewis",
-      "phone": "1923456789",
-      "address": "168 Hickory Dr",
-      "birthdate": "2002-06-19",
-      "gender": "female"
-    },
-    {
-      "id": "m9n0",
-      "fname": "Henry",
-      "lname": "Lee",
-      "phone": "2023456789",
-      "address": "179 Magnolia St",
-      "birthdate": "1982-08-08",
-      "gender": "male"
     }
   ]
 }

@@ -2,12 +2,13 @@ import DelBtn from '../button/DelBtn'
 import UpdBtn from '../button/UpdBtn'
 
 const Card = ({ data }) => {
+  console.log(data)
   return (
     <div className="container">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
         {data?.map((student) => (
           <article
-            className="card bg-white border border-gray-300 shadow-2xs rounded-2xl text-center px-0.5 duration-300 opacity-0 "
+            className="card bg-white border border-gray-300 shadow-2xs rounded-2xl text-center px-0.5 duration-300"
             key={student.id}
           >
             <div className="px-5 py-4">
